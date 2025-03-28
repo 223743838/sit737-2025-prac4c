@@ -1,0 +1,21 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 1 + 2 = 3","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 1 + 2 = 3","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction: 1 - 2 = -1","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction: 1 - 2 = -1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num must be a non-negative number.","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √4 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √2 = 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √2 = 1.4142135623730951","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √6 = 2.449489742783178","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √6 = 2.449489742783178","service":"calculator-microservice"}
+{"level":"info","message":"Square root: √4 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 2 % 4 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 4 % 2 = 0","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 4 % 2 = 0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: base and exponent must be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 2 = 4","service":"calculator-microservice"}

@@ -1,0 +1,4 @@
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1 and num2 must be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num must be a non-negative number.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: base and exponent must be numbers.","service":"calculator-microservice"}
