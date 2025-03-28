@@ -124,20 +124,6 @@ tail -f logs/combined.log
 
 ---
 
-##  Example Test with curl
-(You can run the below url directly on browser or postman)
-```bash
-curl "http://localhost:3000/add?num1=12&num2=8"
-```
-
-Response:
-
-```json
-{ "result": 20 }
-```
-
----
-
 ## Author
 
 **Sushma Singh**  
